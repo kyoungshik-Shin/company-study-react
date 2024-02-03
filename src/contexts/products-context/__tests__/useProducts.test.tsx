@@ -73,7 +73,6 @@ describe('[contexts] - products-context', () => {
             description: '',
             id: 13,
             installments: 5,
-            isFreeShipping: true,
             price: 29.45,
             sku: 51498472915966370,
             style: 'Tule',
